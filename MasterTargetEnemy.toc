@@ -1,0 +1,11 @@
+## Interface: 11305
+## Title: MasterTargetEnemy
+## Author: markg
+## Notes: Master target enemy
+## Dependencies: MasterCore
+## SavedVariables: TargetMasterConfig
+## SavedVariablesPerCharacter: TargetMasterConfigCharacter
+Source\MarkerIcon.lua
+Source\PlayerTargetMarkerController.lua
+Source\CrowdNamePlatesController.lua
+MasterTargetEnemy.xml
